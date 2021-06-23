@@ -8,7 +8,7 @@
 
 ## OpenAPI
 
-Take a look at our [Blog Post](https://blog.basyskom.com/) to see how to generate the code.
+Take a look at our [Blog Post](https://blog.basyskom.com/2021/qml-qt-quick-and-swagger-openapi-tutorial) to see how to generate the code.
 
 ## ERP Server
 
